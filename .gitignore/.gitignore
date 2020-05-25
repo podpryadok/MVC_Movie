@@ -1,1 +1,4 @@
 Migrations/
+obj/Debug/
+bin/
+.vs/
